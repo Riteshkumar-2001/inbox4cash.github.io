@@ -1,0 +1,270 @@
+h1, h2, h3 {
+    color: #5a5a5d;
+    font-size: 50px;
+    font-style: italic;
+}
+.space {
+    padding-top:30px;
+    padding-bottom:30px;
+}
+
+
+/*header*/
+.bg-light {
+    background-color: grey!important;
+}
+.navbar-light .navbar-brand {
+    color: white;
+}
+.navbar-light .navbar-toggler {
+    color: white;
+    border-color: white;
+}
+/*header*/
+
+/*slider*/
+.banner 
+{
+	background-image: url(../../assets/img/banner/slider01.jpg);
+	width:100%;
+	height:600px;
+	background-position: center;
+    background-size: cover;
+    position: relative;
+}
+.banner-input 
+{
+	width:90%;
+	height:340px;
+	background-color:#6ebe44;
+	border-radius:10px;
+}
+.banner-input input 
+{
+	margin-top:20px;
+	width: 60%;
+    border-radius: 5px;
+    border-color:#286877;
+    padding-left: 40px;
+}
+.first-input 
+{
+	/*background: #fff url(../../assets/img/icon/mail.png) 10px 5px no-repeat;*/
+	padding:4px 0px;
+}
+
+.form-group-custom img {
+    position: absolute;
+    top: 26px;
+    left: 90px;
+}
+.form-group-custom {
+    position: relative;
+}
+.banner-input h2 {
+    font-size: 36px;
+    font-weight: 700;
+    color: #286877;
+}
+.banner-input span {
+    font-size:28px; 
+}
+.banner-head-1, .banner-head-2 {
+    font-size: 75px;
+    font-weight: 700;
+    color:black;
+}
+.banner-head-2 {
+    margin-left: 83px;
+}
+.banner-input button {
+    margin-top: 20px;
+    width: 40%;
+    font-size: 21px;
+    border-radius: 5px;
+    background-color: #c73393;
+    border-color:#c73393;
+}
+.banner-up {
+    position: absolute;
+    top: 23%;
+    left: 6%;
+}
+.banner-up-position {
+    position: relative;
+}
+.free img {
+    width: 80%;
+}
+.free {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+}
+/*slider*/
+
+/* activites */
+
+.acitivities-head, .work-head {
+    font-size: 50px;
+    font-style: italic;
+}
+.activites-video {
+    text-align: center;
+}
+/* activites */
+
+/* work */
+.work-color {
+    background-color: #286877;
+    padding-bottom: 5%;
+}
+.work-head h1 {
+    color:white !important;
+}
+.work-icon-1 img {
+    text-align:center;
+    width:60%;
+}
+.work-icon-1 p{
+    color: #fff;
+    font-weight: 700;
+    text-align:center;
+}
+/* .work-icon-1:before {
+    content: "";
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 46px;
+    border-left: 14px solid #fff;
+    border-top: 25px solid transparent;
+    border-bottom: 25px solid transparent;
+} */
+/* work */
+
+/* cash */
+.cash-head {
+    margin-bottom:30px;
+}
+.cash-icon img {
+    width:100%;
+}
+
+/* cash */
+
+/* rewards */
+.rewards {
+    background-color: #286877;
+    width: 100%;
+    height: auto;
+    padding-bottom: 30px;
+}
+.rewards-head h1{
+    color:white !important;
+}
+/* rewards */
+
+/* member */
+.member-01, .member-02, .member-03 {
+    
+    width: 100%;
+    text-align: center;
+    padding: 15px 0px;
+}
+.member-01 {
+    background-color: #6ebe44;
+}
+.member-02 {
+    background-color: black;
+}
+.member-03 {
+    background-color:#286877;
+}
+.member-01 h4, .member-02 h4, .member-03 h4 {
+    color:white;
+    font-size: 30px;
+}
+.remove-padding {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+/* member */
+
+/* widthdrawl */
+.withdrawl {
+    background-color: #286877;
+    height:auto;
+    padding: 20px;
+}
+.widthdrawl-1 h4 {
+    font-style: italic;
+    font-size:25px;
+    color:white !important;
+    text-align: center;
+}
+.widthdrawl-1 ul li {
+    color:white;
+    list-style:none;
+    text-align: center;
+    font-size:20px;
+}
+.widthdrawl-1 {
+    float:left;
+}
+/* widthdrawl */
+
+/* developer */
+.developer-head h3 {
+    font-size: 40px;
+    font-weight: 700;
+}
+.developer-head p {
+    text-align: justify;
+}
+.developer-img img{
+    width:100%;
+}
+.btcoin img {
+    width: 100%;
+}
+/* developer */
+
+/* bonus */
+.bonus {
+    background-color: #6ebe44;
+    width:100%;
+    height:auto;
+}
+.bonus-head span {
+    color: white;
+    font-style: normal;
+}
+.bonus-head h2 {
+    font-family: Yellowtail,cursive;
+}
+.bonus button {
+    margin-top: 30px;
+    width: 20%;
+    padding: 10px 0px;
+    font-size: 20px;
+}
+/* bonus */
+
+/* footer */
+footer 
+{
+    color:white;
+}
+.footer-bg {
+    background-color: black;
+    width:100%;
+    height:auto;
+}
+.footer-content p {
+    text-align: justify;
+}
+.footer-contact {
+    float:right;
+}
+/* footer */

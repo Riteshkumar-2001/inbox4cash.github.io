@@ -1,0 +1,34 @@
+@media (min-width: 992px) 
+	{
+	.navbar-expand-lg .navbar-toggler {
+	    display: block !important;
+	}
+}
+
+@media(max-width: 768px) {
+	.form-group-custom img {
+		left: 74px;
+    	width: 24px;
+    	top: 26px;
+	}
+	.banner-up {
+		top: 10%;
+		left: 7%;
+	}
+	.banner-head-1, .banner-head-2 {
+		color:white;
+		font-size: 50px;
+	}
+	#videoWrapper iframe{
+		width:100%;
+	}
+	.cash-icon img {
+		width:50%;
+	}
+	.bonus button {
+		width:40%;
+	}
+	.footer-contact {
+		float:none;
+	}
+}
